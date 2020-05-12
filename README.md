@@ -1,4 +1,2 @@
-# PHPstorm 激活HOST
-
-0.0.0.0  account.jetbrains.com
-0.0.0.0  www.jetbrains.com
+# 挂载磁盘
+https://www.yisu.com/help/id_41.html
